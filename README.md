@@ -15,10 +15,10 @@ cd /tmp/ && yum install git -y && git clone https://github.com/TaherSayed/Love-g
 
 ADD USER
 
-useradd test enter
-passwd test  enter
-newpass: write your pass and enter
-again newpass: your pass and enter
-
-------------------
+useradd test enter<br>
+passwd test  enter<br>
+newpass: write your pass and enter<br>
+again newpass: your pass and enter<br>
+<br>
+------------------<br>
 info@elmo-serv.com
