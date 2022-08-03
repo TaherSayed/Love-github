@@ -21,4 +21,4 @@ newpass: write your pass and enter<br>
 again newpass: your pass and enter<br>
 <br>
 ------------------<br>
-info@elmo-serv.com
+info@tech-24-7.com
